@@ -242,12 +242,6 @@ A responsive healthcare and medical website created with a modern web interface.
 
 <div align="center">
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=shoayebmizi00&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6"
-/>
-
-</div>
-
 ---
 
 ## 💡 Random Developer Quote
