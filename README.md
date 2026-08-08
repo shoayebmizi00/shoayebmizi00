@@ -219,9 +219,20 @@ A responsive healthcare and medical website created with a modern web interface.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoayebmizi00/shoayebmizi00/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shoayebmizi00/shoayebmizi00/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/shoayebmizi00/shoayebmizi00/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/shoayebmizi00/shoayebmizi00/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/shoayebmizi00/shoayebmizi00/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/shoayebmizi00/shoayebmizi00/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 </div>
@@ -232,7 +243,33 @@ A responsive healthcare and medical website created with a modern web interface.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shoayebmizi00&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+<a href="https://github.com/shoayebmizi00">
+  <img src="https://img.shields.io/github/followers/shoayebmizi00?style=for-the-badge&logo=github&color=8B5CF6&labelColor=0D1117" />
+</a>
+
+<a href="https://github.com/shoayebmizi00?tab=repositories">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-06B6D4?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+</a>
+
+<a href="https://github.com/shoayebmizi00">
+  <img src="https://komarev.com/ghpvc/?username=shoayebmizi00&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Open%20To-Collaboration-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Always-Learning-8B5CF6?style=for-the-badge&logo=readthedocs&logoColor=white" />
+
+</div>
+
+<div align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=shoayebmizi00&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6"
+/>
 
 </div>
 
