@@ -1,15 +1,13 @@
 <div align="center">
 
 <img
-  src="./assets/fullstake.png"
+  src="./fullstake_banner.png"
   alt="Md Shoayeb Mizi - Full Stack Web Developer"
   width="100%"
 />
 
 </div>
 
-<br/>
----
 <div align="center">
 
 # 👋 Hi, I'm Md Shoayeb Mizi
