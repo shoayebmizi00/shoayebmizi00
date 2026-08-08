@@ -80,39 +80,104 @@ const shoayeb = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 [KRISHOK-SHEBA-BD](https://github.com/shoayebmizi00/Krishok-Sheba-BD)
+
+A smart digital agriculture platform designed to connect farmers, buyers, services, and agricultural resources.
+
+<br>
 
 <a href="https://github.com/shoayebmizi00/Krishok-Sheba-BD">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=shoayebmizi00&repo=Krishok-Sheba-BD&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://img.shields.io/badge/View%20Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💰 [Expense Tracker](https://github.com/shoayebmizi00/Expense-Tracker)
+
+A simple application for tracking expenses and managing personal financial records.
+
+<br>
 
 <a href="https://github.com/shoayebmizi00/Expense-Tracker">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=shoayebmizi00&repo=Expense-Tracker&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://img.shields.io/badge/View%20Project-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧮 [Scientific Calculator](https://github.com/shoayebmizi00/Basic-Sientific-Calculator)
+
+A scientific calculator project for performing basic and advanced mathematical calculations.
+
+<br>
 
 <a href="https://github.com/shoayebmizi00/Basic-Sientific-Calculator">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=shoayebmizi00&repo=Basic-Sientific-Calculator&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://img.shields.io/badge/View%20Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎓 [CGPA Calculator](https://github.com/shoayebmizi00/CGPA-Calculator)
+
+A lightweight calculator designed to quickly calculate and manage academic CGPA.
+
+<br>
 
 <a href="https://github.com/shoayebmizi00/CGPA-Calculator">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=shoayebmizi00&repo=CGPA-Calculator&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://img.shields.io/badge/View%20Project-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛋️ [Panto Furniture](https://github.com/shoayebmizi00/Panto_Furniture_Website_With_React)
+
+A modern furniture website built with React featuring a responsive and clean user interface.
+
+<br>
 
 <a href="https://github.com/shoayebmizi00/Panto_Furniture_Website_With_React">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=shoayebmizi00&repo=Panto_Furniture_Website_With_React&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://img.shields.io/badge/View%20Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏥 [Mediplus Lite](https://github.com/shoayebmizi00/Mediplus-Lite-website)
+
+A responsive healthcare and medical website created with a modern web interface.
+
+<br>
 
 <a href="https://github.com/shoayebmizi00/Mediplus-Lite-website">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=shoayebmizi00&repo=Mediplus-Lite-website&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://img.shields.io/badge/View%20Project-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
 ### 🔎 [Explore All My Projects →](https://github.com/shoayebmizi00?tab=repositories)
 
 </div>
+
 
 ---
 
