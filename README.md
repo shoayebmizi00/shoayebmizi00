@@ -185,19 +185,22 @@ A responsive healthcare and medical website created with a modern web interface.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shoayebmizi00&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoayebmizi00&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=10" />
-
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shoayebmizi00&theme=tokyonight" width="100%" />
 
 <br/>
 
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shoayebmizi00&theme=tokyonight" width="32%" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=shoayebmizi00&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shoayebmizi00&theme=tokyonight" width="32%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shoayebmizi00&theme=tokyonight" width="32%" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=shoayebmizi00&theme=tokyonight&hide_border=true&border_radius=12" width="70%" />
 
 </div>
+
 
 ---
 
