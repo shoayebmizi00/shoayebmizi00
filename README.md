@@ -1,5 +1,17 @@
 <div align="center">
 
+<img
+  src="./assets/fullstake.png"
+  alt="Md Shoayeb Mizi - Full Stack Web Developer"
+  width="100%"
+/>
+
+</div>
+
+<br/>
+---
+<div align="center">
+
 # 👋 Hi, I'm Md Shoayeb Mizi
 
 ### 💻 Full Stack Developer | 🎓 CSE Student | 🚀 Building Ideas Into Real-World Applications
@@ -254,19 +266,21 @@ A responsive healthcare and medical website created with a modern web interface.
 
 ---
 
-## 🎧 Spotify
+## 🎧 Coding & Music
 
 <div align="center">
 
-<!--
-Spotify GitHub Profile requires one-time authorization.
-After setting it up at:
-https://spotify-github-profile.kittinanx.com/
+<img
+  src="https://img.shields.io/badge/Coding%20With-Music-8B5CF6?style=for-the-badge&logo=spotify&logoColor=white"
+/>
 
-Replace SPOTIFY_ID below with your generated Spotify GitHub Profile ID.
--->
+<img
+  src="https://img.shields.io/badge/Focus%20Mode-ON-06B6D4?style=for-the-badge&logo=headphones&logoColor=white"
+/>
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=8b5cf6&bar_color_cover=false" />
+<br/><br/>
+
+<i>🎵 Code. Music. Focus. Repeat.</i>
 
 </div>
 
