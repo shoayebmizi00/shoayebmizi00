@@ -1,15 +1,5 @@
 <div align="center">
 
-<img
-  src="./fullstake_banner.png"
-  alt="Md Shoayeb Mizi - Full Stack Web Developer"
-  width="100%"
-/>
-
-</div>
-
-<div align="center">
-
 # 👋 Hi, I'm Md Shoayeb Mizi
 
 ### 💻 Full Stack Developer | 🎓 CSE Student | 🚀 Building Ideas Into Real-World Applications
