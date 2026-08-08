@@ -86,27 +86,34 @@ const shoayeb = {
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=shoayebmizi00&repo=Krishok-Sheba-BD&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
 
-<a href="https://github.com/shoayebmizi00/Taskflow">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=shoayebmizi00&repo=Taskflow&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-
-<a href="https://github.com/shoayebmizi00/Food-Hub">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=shoayebmizi00&repo=Food-Hub&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-
-<a href="https://github.com/shoayebmizi00/Panto-Furniture">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=shoayebmizi00&repo=Panto-Furniture&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-
-<a href="https://github.com/shoayebmizi00/Mediplus-Lite-website">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=shoayebmizi00&repo=Mediplus-Lite-website&theme=tokyonight&hide_border=true&border_radius=12" />
+<a href="https://github.com/shoayebmizi00/Expense-Tracker">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=shoayebmizi00&repo=Expense-Tracker&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
 
 <a href="https://github.com/shoayebmizi00/Basic-Sientific-Calculator">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=shoayebmizi00&repo=Basic-Sientific-Calculator&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
 
+<a href="https://github.com/shoayebmizi00/CGPA-Calculator">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=shoayebmizi00&repo=CGPA-Calculator&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+
+<a href="https://github.com/shoayebmizi00/Panto_Furniture_Website_With_React">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=shoayebmizi00&repo=Panto_Furniture_Website_With_React&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+
+<a href="https://github.com/shoayebmizi00/Mediplus-Lite-website">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=shoayebmizi00&repo=Mediplus-Lite-website&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+
 </div>
+
+<div align="center">
+
+### 🔎 [Explore All My Projects →](https://github.com/shoayebmizi00?tab=repositories)
+
+</div>
+
 
 <div align="center">
 
