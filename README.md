@@ -114,13 +114,6 @@ const shoayeb = {
 
 </div>
 
-
-<div align="center">
-
-### 🔎 [Explore All My Projects →](https://github.com/shoayebmizi00?tab=repositories)
-
-</div>
-
 ---
 
 ## 📊 GitHub Analytics
