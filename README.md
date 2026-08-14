@@ -158,13 +158,13 @@ A modern furniture website built with React featuring a responsive and clean use
 
 <td width="50%" valign="top">
 
-### 🏥 [Mediplus Lite](https://github.com/shoayebmizi00/Mediplus-Lite-website)
+### 🏥 [Pneumon-AI]([https://github.com/shoayebmizi00/Mediplus-Lite-website](https://github.com/shoayebmizi00/Pneumon-AI))
 
-A responsive healthcare and medical website created with a modern web interface.
+This AI system is an educational/research prototype and does not provide a medical diagnosis. Predictions may be incorrect..
 
 <br>
 
-<a href="https://github.com/shoayebmizi00/Mediplus-Lite-website">
+<a href="[https://github.com/shoayebmizi00/Mediplus-Lite-website](https://github.com/shoayebmizi00/Pneumon-AI)">
 <img src="https://img.shields.io/badge/View%20Project-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
